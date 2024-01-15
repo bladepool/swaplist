@@ -16,7 +16,7 @@
       "name": "Tres",
       "chainId": 56,
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/treschain/3leches/master/Logos/bscscan.com/vtech.png",
+      "logoURI": "https://raw.githubusercontent.com/bladepool/logorepro/master/vtech.png",
       "address": "0x66bc84b4270cA0F056E27e5cD77B2401522191c6"
     },
     {
@@ -65,7 +65,7 @@
       "address": "0x66bc84b4270cA0F056E27e5cD77B2401522191c6",
       "chainId": 97,
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/treschain/3leches/master/Logos/bscscan.com/vtech.png"
+      "logoURI": "https://raw.githubusercontent.com/bladepool/logorepro/master/vtech.png"
     },
     {
       "name": "USDT Token",
@@ -153,7 +153,7 @@
       "symbol": "TRES",
       "decimals": 18,
       "chainId": 80001,
-      "logoURI": "https://raw.githubusercontent.com/treschain/3leches/master/Logos/bscscan.com/vtech.png"
+      "logoURI": "https://raw.githubusercontent.com/bladepool/logorepro/master/vtech.png"
     },
 
     {
@@ -202,7 +202,7 @@
       "symbol": "TRES",
       "decimals": 18,
       "chainId": 3,
-      "logoURI": "https://raw.githubusercontent.com/treschain/3leches/master/Logos/bscscan.com/vtech.png"
+      "logoURI": "https://raw.githubusercontent.com/bladepool/logorepro/master/vtech.png"
     },
 
     {
@@ -252,7 +252,7 @@
         "symbol": "WVAULT",
         "decimals": 18,
         "chainId": 79000,
-        "logoURI": "https://raw.githubusercontent.com/treschain/3leches/master/Logos/bscscan.com/vtech.png"
+        "logoURI": "https://raw.githubusercontent.com/bladepool/logorepro/master/vtech.png"
       },
     {
       "name": "Wrapped Tres",
