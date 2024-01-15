@@ -1,5 +1,5 @@
 {
-  "name": "Tres Default List",
+  "name": "Vault Default List",
   "timestamp": "2021-05-06T00:00:00Z",
   "version": {
     "major": 3,
@@ -7,7 +7,7 @@
     "patch": 0
   },
   "tags": {},
-  "logoURI": "https://raw.githubusercontent.com/treschain/3leches/master/Logos/bscscan.com/3leches.png",
+  "logoURI": "https://raw.githubusercontent.com/treschain/3leches/master/Logos/bscscan.com/vtech.png",
   "keywords": ["tres", "default", "leches"],
   "tokens": [
 
@@ -16,7 +16,7 @@
       "name": "Tres",
       "chainId": 56,
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/treschain/3leches/master/Logos/bscscan.com/3leches.png",
+      "logoURI": "https://raw.githubusercontent.com/treschain/3leches/master/Logos/bscscan.com/vtech.png",
       "address": "0x66bc84b4270cA0F056E27e5cD77B2401522191c6"
     },
     {
@@ -65,7 +65,7 @@
       "address": "0x66bc84b4270cA0F056E27e5cD77B2401522191c6",
       "chainId": 97,
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/treschain/3leches/master/Logos/bscscan.com/3leches.png"
+      "logoURI": "https://raw.githubusercontent.com/treschain/3leches/master/Logos/bscscan.com/vtech.png"
     },
     {
       "name": "USDT Token",
@@ -153,7 +153,7 @@
       "symbol": "TRES",
       "decimals": 18,
       "chainId": 80001,
-      "logoURI": "https://raw.githubusercontent.com/treschain/3leches/master/Logos/bscscan.com/3leches.png"
+      "logoURI": "https://raw.githubusercontent.com/treschain/3leches/master/Logos/bscscan.com/vtech.png"
     },
 
     {
@@ -202,7 +202,7 @@
       "symbol": "TRES",
       "decimals": 18,
       "chainId": 3,
-      "logoURI": "https://raw.githubusercontent.com/treschain/3leches/master/Logos/bscscan.com/3leches.png"
+      "logoURI": "https://raw.githubusercontent.com/treschain/3leches/master/Logos/bscscan.com/vtech.png"
     },
 
     {
@@ -246,14 +246,6 @@
       "chainId": 6066,
       "logoURI": "https://raw.githubusercontent.com/treschain/3leches/master/Logos/Blockchain/wrapped-32x32.png"
     },
-    {
-        "name": "Wrapped Vault",
-        "address": "0xc9e0eDD7bae9b75798F70c25A2E34363Fc902820",
-        "symbol": "WTRES",
-        "decimals": 18,
-        "chainId": 79000,
-        "logoURI": "https://raw.githubusercontent.com/treschain/3leches/master/Logos/Blockchain/wrapped-32x32.png"
-      },
     {
       "name": "Wrapped Tres",
       "address": "0x66bc84b4270cA0F056E27e5cD77B2401522191c6",
@@ -300,7 +292,7 @@
       "symbol": "TRES",
       "decimals": 18,
       "chainId": 137,
-      "logoURI": "https://raw.githubusercontent.com/3LechesCake/3leches/master/Logos/bscscan.com/3leches.png"
+      "logoURI": "https://raw.githubusercontent.com/3LechesCake/3leches/master/Logos/bscscan.com/vtech.png"
     },
     {
       "name": "Tres",
@@ -308,7 +300,7 @@
       "symbol": "TRES",
       "decimals": 18,
       "chainId": 13381,
-      "logoURI": "https://raw.githubusercontent.com/3LechesCake/3leches/master/Logos/bscscan.com/3leches.png"
+      "logoURI": "https://raw.githubusercontent.com/3LechesCake/3leches/master/Logos/bscscan.com/vtech.png"
     }
   ]
 }
